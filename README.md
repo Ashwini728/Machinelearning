@@ -8,9 +8,9 @@ Exploratory Data Analysis (EDA): Visualizes key patterns and relationships in th
 Machine Learning: Builds and evaluates predictive models using classification algorithms.
 Evaluation Metrics: Includes accuracy, precision, recall, and F1-score for model performance.
 
-Requirements
-Python 3.8 or higher
-Jupyter Notebook
+Requirements <br>
+Python 3.8 or higher<br>
+Jupyter Notebook<br>
 Required Python libraries:
 pandas
 numpy
@@ -31,16 +31,7 @@ Sex: Gender of the individual.
 Cholesterol: Serum cholesterol levels.
 RestingBP: Resting blood pressure.
 Target: Indicates the presence (1) or absence (0) of heart disease.
-Usage
-Clone the repository or download the notebook:
-bash
-Copy code
-git clone https://github.com/your-username/heart-disease-analysis.git
-Open the Jupyter Notebook:
-bash
-Copy code
-jupyter notebook heartdisease.ipynb
-Execute the cells step by step to load the data, perform EDA, and build machine learning models.
+
 Results
 Insights derived from EDA provide an understanding of key risk factors.
 Machine learning models offer predictions for identifying heart disease with measurable accuracy.
