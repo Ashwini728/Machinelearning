@@ -7,6 +7,7 @@ Data Preprocessing: Handles missing values, data normalization, and encoding cat
 Exploratory Data Analysis (EDA): Visualizes key patterns and relationships in the data.
 Machine Learning: Builds and evaluates predictive models using classification algorithms.
 Evaluation Metrics: Includes accuracy, precision, recall, and F1-score for model performance.
+
 Requirements
 Python 3.8 or higher
 Jupyter Notebook
